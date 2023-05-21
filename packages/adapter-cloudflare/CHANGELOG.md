@@ -1,5 +1,16 @@
 # @sveltejs/adapter-cloudflare
 
+## 2.3.0
+
+### Minor Changes
+
+- feat: add cloudflare's `request.cf` object to the `event.platform` property ([#9978](https://github.com/sveltejs/kit/pull/9978))
+
+### Patch Changes
+
+- Updated dependencies [[`195e9ac22`](https://github.com/sveltejs/kit/commit/195e9ac2233776ecf1aff7dadbadd7226f68e8dd)]:
+  - @sveltejs/kit@1.19.0
+
 ## 2.2.4
 
 ### Patch Changes
